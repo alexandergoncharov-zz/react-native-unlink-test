@@ -1,4 +1,3 @@
 <resources>
-    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">a1</string>
     <string name="app_name">unlink1</string>
 </resources>
