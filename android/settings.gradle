@@ -1,0 +1,3 @@
+rootProject.name = 'unlink1'
+
+include ':app'
